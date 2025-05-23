@@ -10,5 +10,5 @@ stages('checkout')
 echo'checkout the code'
 checkout scm
 }
-
+}
 }
